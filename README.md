@@ -72,8 +72,10 @@ This repo reflects how I approach building tools. I solve a real world problem f
 ---
 
 ## Example Outputs
+
 ### Sort
 
+``` text
 Enter the folder path to scan. (ex. /Users/john/Desktop/Photos): /Users/nick/Documents/nicks-photo-toolbox/media
 Choose a tool: (1) Sort images  (2) Find duplicates: 1
 What would you like to sort by: 'name', 'size', 'date': size
