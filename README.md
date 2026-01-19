@@ -96,8 +96,10 @@ lantern-8818968_1920.jpg                 sharp           0.30 MB     01/18/2026 
 giant-panda-10039235_1920.jpg            sharp           0.44 MB     01/18/2026 20:32:17    (Blur Variance:   991.71)
 giant-panda-10039235_1920.jpg            sharp           0.44 MB     01/18/2026 20:32:33    (Blur Variance:   991.71)
 
+```
 ### Duplicate finder - CLI output
 
+``` text
 Enter the folder path to scan. (ex. /Users/john/Desktop/Photos): /Users/nick/Documents/nicks-photo-toolbox/media
 Choose a tool: (1) Sort images  (2) Find duplicates: 2
 Running Compare...
@@ -108,9 +110,9 @@ Found 7 files to scan.
 Duplicates found: 2
 Total time elapsed 2.63.
 Done running!!!
-
+```
 ### Duplicate finder - store.json
-
+``` text
 [
     {
         "name": "giant-panda-10039235_1920.jpg",
@@ -125,7 +127,7 @@ Done running!!!
         "hash": "7a8ac51c21b2e7e25b843770e99eaab9"
     }
 ]
-
+```
 ---
 
 ## Author
