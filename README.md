@@ -73,7 +73,7 @@ This repo reflects how I approach building tools. I solve a real world problem f
 
 ## Example Outputs
 
-### Sort
+### Sort - CLI output
 
 ``` text
 Enter the folder path to scan. (ex. /Users/john/Desktop/Photos): /Users/nick/Documents/nicks-photo-toolbox/media
